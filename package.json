@@ -1,0 +1,15 @@
+{
+  "name": "link-client-api",
+  "version": "1.0.0",
+  "description": "It links clients with same phone number with their respective phone number and email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Enoch David Lal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
